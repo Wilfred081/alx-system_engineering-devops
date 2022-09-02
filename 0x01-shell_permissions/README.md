@@ -1,1 +1,3 @@
-Write a script that sets the mode of the file hello the same as olleh’s mode.
+Write a script that prints all the groups the current user
+
+ is part of.
