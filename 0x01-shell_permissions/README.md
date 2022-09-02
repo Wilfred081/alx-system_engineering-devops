@@ -1,1 +1,1 @@
-a script that will play the StarWars IV episode in the terminal
+a script that prints all the groups the current user is part of.
